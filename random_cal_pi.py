@@ -1,6 +1,6 @@
 # Q.There is random function which generates a function randomly btw 0 and 1 
 # and it is uniformly distributed 
-# so calculte the value of pi😂
+# so calculte the value of pi
 
 # import random
 # print(random.random())
